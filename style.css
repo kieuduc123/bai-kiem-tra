@@ -57,6 +57,7 @@ form h2{
     font-size: 12px;
     position: relative;   
     z-index: 2;
+    background-color: #f4f4f4;
 }
 .divider-text:after {
     content: "";
@@ -66,14 +67,6 @@ form h2{
     top: 55%;
     left: 0;
     z-index: 1;
-}
-
-.space {
-    display: block;
-    text-align: center;
-    margin-bottom: 8px;
-    font-size: 1.2rem;
-    margin-top: 8px;
 }
 
 .btn{
